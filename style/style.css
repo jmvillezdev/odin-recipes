@@ -15,6 +15,9 @@
 
 .shaded-text {
     color: #bbd1ea;
+    text-transform: uppercase;
+    border: 1px solid #507dbc;
+    padding: 10px;
 }
 
 nav,
