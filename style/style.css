@@ -39,7 +39,8 @@ nav {
 .recipe-image {
     height: 500px;
     width: 500px;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: -10px;
 }
 
 .recipe-description-heading {
