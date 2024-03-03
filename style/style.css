@@ -9,7 +9,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 45px;
     font-weight: bolder;
+    padding: 10px;
 }
+
 
 .shaded-text {
     color: #bbd1ea;
@@ -21,19 +23,28 @@ nav,
     height: 30px;
 }
 
+nav {
+    padding: 10px;
+}
+
 .nav-link {
     color: #04080f;
     font-size: 17px;
     font-weight: bold;
+    margin-right: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 .recipe-image {
     height: 500px;
     width: 500px;
+    margin-top: 30px;
 }
 
 .recipe-description-heading {
     font-size: 25px;
+    margin-bottom: 20px;
 }
 
 .recipe-description {
