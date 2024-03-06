@@ -12,3 +12,8 @@ Finished initial page structure and contents using HTML.
 - 3 Recipe Pages
 
 This will be updated as I progress in the coursework.
+
+# odin-recipes (0.0.1)
+First major update:
+- Used the basic flexbox skills I learned to fix layout and make the project responsive.
+- I will be updating and improving it the more I learn.
